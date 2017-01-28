@@ -1,0 +1,23 @@
+
+                                                               Image Recognition System Use Case
+	Primary actor: User
+	Goal: To use Image Recognition Application
+	Scope: By the android device
+	Trigger: The Know the accuracy of the image by Machine learning process 
+	Precondition: Must have an android device, must have application installed
+	Main Sequence:
+	1 - User clicks on app
+	2 - Camera appears, choose picture from gallery or Take the picture 
+	3 - Wait for output
+	Extensions:
+	2a -Can Retake the picture or choose another picture from gallery
+	3a -Don’t Satisfy with the output, try again for more picture.
+	Success Guarantees:
+	Application Launch Successfully 
+	Successfully camera appears
+	Give percentage of image close to accuracy
+	Minimum Guarantees:
+	Application didn’t launch properly
+	Camera did not appears
+	Percentage of image didn’t close to accuracy
+
