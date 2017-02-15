@@ -33,11 +33,6 @@ Muhammad Rossan <1413101@my.brunel.ac.uk>,
 Dawood Ahmed <1604976@my.brunel.ac.uk>
 
  ##Diagrams
-  
-  
-  
-  
-##  Here are the all the picture and flow diagrams of our project :
 
 
 
@@ -71,7 +66,7 @@ This is the class diagram for the application
 
 
 
-## Flowchart diagram:
+ ## Flowchart diagram:
 
 Added the flowchart diagram for our working model:
 
