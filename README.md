@@ -1,7 +1,7 @@
 ##Table of Contents
 1. [Introduction](#introduction)
 2. [Deadlines](#deadlines)
-3. [Team](#Team)
+3. [Team](#team)
 
 ##Introduction
 
