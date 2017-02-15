@@ -23,7 +23,7 @@ This is an application that uses image recognition AI to identify objects from i
 
 
 
-##Teams
+##Team
 
 Edward Wills <1400153@my.brunel.ac.uk>,
 Priyen Patel <1443142@my.brunel.ac.uk>,
