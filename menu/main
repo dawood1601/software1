@@ -69,7 +69,7 @@ public class MainActivity extends AppCompatActivity {
     {
         Intent intent = new Intent(MainActivity.this, help_us.class);
         startActivity(intent);
-
+//hr
     }
 }
 
